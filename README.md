@@ -1,2 +1,5 @@
 # Financial-Project
-My first project learning Java and OOP.
+A College project, first time using Java and learning OOP.
+
+Its based on a financial system, the objects are Houses, Apartaments, Terrains etc.
+All words are in Brazilian Portuguese!
